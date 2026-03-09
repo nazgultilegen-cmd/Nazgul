@@ -28,9 +28,6 @@ function calculate() {
   else if (bmi <= 34.9) {
     category = "Obese Class 1";
   }
-  else if (bmi <= 34.9) {
-    category = "Obese Class 1";
-  }
   else if (bmi <= 39.9) {
     category = "Obese Class 2";
   }
