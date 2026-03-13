@@ -45,7 +45,7 @@ function calculate() {
         category = "Obese Class III";
     }
     else if (bmi => 99.9) {
-        category = "you are lier it can be real";
+        category = "invalid data";
     } 
 
     
